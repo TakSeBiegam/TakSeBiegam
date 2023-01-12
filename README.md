@@ -86,5 +86,7 @@ welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the Universit
   <br/>
 <a href="https://github.com/TakSeBiegam/github-readme-activity-graph"><img alt="TakSeBiegam Activity Chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=TakSeBiegam&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=false" /></a>
 </details>
-
+<details>
+ <summary>Happy Dino</summary>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+</details>

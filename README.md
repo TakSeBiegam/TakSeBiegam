@@ -1,12 +1,19 @@
+<img src="https://raw.githubusercontent.com/TakSeBiegam/TakSeBiegam/main/TakSeBiegamIntro.gif" alt="👋 Hi there! I'm TakSeBiegam" title="👋 Hi there! I'm TakSeBiegam"/>
+
 <div align="justify">
 
 [![Linkedin](https://img.shields.io/badge/TakSeBiegam-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-kurylo/)&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/TakSeBiegam-330F63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TakSeBiegam/)
 
+ 
+</div>  
+<p align="justify"> 
+welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the University of Bialystok, I am constantly looking for new challenges and opportunities to grow and develop my skills in IT. With a passion for technology and a keen eye for innovation, I am always looking for ways to push the boundaries and explore new frontiers in the field. Whether it's creating cutting-edge software solutions or working on remarkable, exciting projects, I'm driven by a desire to make a real difference in the world of technology.
+ 
 
 </p>
 
-## My favorite tools and technologies ⚙️
+## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
 
@@ -34,7 +41,6 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
       <br>Kubernetes
@@ -58,6 +64,7 @@
         <td align="center" width="96">
         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png" width="48" height="48" alt="Manjaro" />
       <br>Manjaro
+</td>
     </td>
         <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />

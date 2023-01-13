@@ -21,31 +21,24 @@ welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the Universit
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <br>C#
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>Typescript
+        <br>Typescript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
+        <br>Javascript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
+        <br>C++
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
-      <br>GraphQL
+        <br>GraphQL
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    </tr>
+</tr>
 <tr>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
@@ -59,24 +52,31 @@ welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the Universit
         <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+        <br>Docker
+    </td>
 </tr>
- <tr>
-        <td align="center" width="96">
-        <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png" width="48" height="48" alt="Manjaro" />
-      <br>Manjaro
-</td>
+<tr>
+    <td align="center" width="96">
+         <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/manjarowelcome_94304.png" width="48" height="48" alt="Manjaro" />
+    <br>Manjaro
     </td>
-        <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+        <br>MySQL
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
-      <br>Unity
+        <br>Unity
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongo" width="48" height="48" alt="mongodb" />
-      <br>MongoDB
+        <br>MongoDB
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+        <br>Kubernetes
     </td>
  </tr>
 </table>

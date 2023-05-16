@@ -10,7 +10,7 @@
 <p align="justify"> 
 welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the University of Bialystok, I am constantly looking for new challenges and opportunities to grow and develop my skills in IT. With a passion for technology and a keen eye for innovation, I am always looking for ways to push the boundaries and explore new frontiers in the field. Whether it's creating cutting-edge software solutions or working on remarkable, exciting projects, I'm driven by a desire to make a real difference in the world of technology.
  
-
+<div align="center"> 
 </p>
 
 ## My favorite tools and technologies ⚙️ 
@@ -80,12 +80,7 @@ welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the Universit
     </td>
  </tr>
 </table>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-<a href="https://github.com/TakSeBiegam/github-readme-activity-graph"><img alt="TakSeBiegam Activity Chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=TakSeBiegam&bg_color=ffffff&color=000000&line=00ea70&point=403d3d&area=true&hide_border=false" /></a>
-</details>
+</div>
 <details>
  <summary>Happy Dino</summary>
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">

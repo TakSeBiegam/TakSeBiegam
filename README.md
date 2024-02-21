@@ -1,11 +1,12 @@
-<img src="https://raw.githubusercontent.com/TakSeBiegam/TakSeBiegam/main/TakSeBiegamIntro.gif" alt="👋 Hi there! I'm TakSeBiegam" title="👋 Hi there! I'm TakSeBiegam"/>
-
-<div align="justify">
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/TakSeBiegam/TakSeBiegam/main/TakSeBiegamIntro.gif" width='75%'  alt="👋 Hi there! I'm TakSeBiegam" title="👋 Hi there! I'm TakSeBiegam"/>
+</div>
+<div align="justify" marginBottom="10px">
+<br/>
+ 
 [![Linkedin](https://img.shields.io/badge/TakSeBiegam-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-kurylo/)&nbsp;&nbsp;
 [![gitlab](https://img.shields.io/badge/TakSeBiegam-330F63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TakSeBiegam/)
 
- 
 </div>  
 <p align="justify"> 
 welcome to my GitHub Page. I'm TakSeBiegam, 22-year-old student at the University of Bialystok, I am constantly looking for new challenges and opportunities to grow and develop my skills in IT. With a passion for technology and a keen eye for innovation, I am always looking for ways to push the boundaries and explore new frontiers in the field. Whether it's creating cutting-edge software solutions or working on remarkable, exciting projects, I'm driven by a desire to make a real difference in the world of technology.

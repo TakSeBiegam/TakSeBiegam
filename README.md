@@ -64,10 +64,6 @@ Hello fellow kid and Welcome to my GitHub Page. I'm TakSeBiegam, 23-year-old stu
     <br>Manjaro
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
         <br>Unity
     </td>

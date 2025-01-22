@@ -9,7 +9,7 @@
 
 </div>  
 <p align="justify"> 
-Hello fellow kid and Welcome to my GitHub Page. I'm TakSeBiegam, 23-year-old student at the University of Bialystok, I am constantly looking for new challenges and opportunities to grow and develop my skills in IT. With a passion for technology and a keen eye for innovation, I am always looking for ways to push the boundaries and explore new frontiers in the field. Whether it's creating cutting-edge software solutions or working on remarkable, exciting projects, I'm driven by a desire to make a real difference in the world of technology.
+Hello fellow kid and Welcome to my GitHub Page. I'm TakSeBiegam, 24-year-old student at the University of Bialystok, I am constantly looking for new challenges and opportunities to grow and develop my skills in IT. With a passion for technology and a keen eye for innovation, I am always looking for ways to push the boundaries and explore new frontiers in the field. Whether it's creating cutting-edge software solutions or working on remarkable, exciting projects, I'm driven by a desire to make a real difference in the world of technology.
  
 <div align="center"> 
 </p>
